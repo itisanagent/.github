@@ -1,5 +1,5 @@
 <div align="center">
-<img src=https://raw.githubusercontent.com/itisanagent/.github/main/assets/itisanagent-no-bg.png alt="It Is An Agent Logo" width="600" height="600">
+<img src=https://raw.githubusercontent.com/itisanagent/.github/main/assets/itisanagent-no-bg.png alt="It Is An Agent Logo" width="100" height="100">
 <h3>It Is An Agent.</h3>
 <em>Local AI-agent tool that is an agent.</em>
 </div>
